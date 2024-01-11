@@ -1,0 +1,92 @@
+{
+	"s": {
+		"fn": {
+			"gt": ["dane", "ia", "iraga", "titiang", "rare angon", "sane"],
+			"bd": ["mabasa","pariwisata","abon", "acara", "adat", "adine", "juuke", "memene", "peken", "anak", "positif", "daerah", "pacentokan", "layangan", "titi", "acara", "baga", "swadharma", "krama", "usaha", "bengkel", "utsaha", "pengalgal", "masan", "pandemi", "pemilet", "kawentenang", "kramane", "indik", "kauratiang", "pidartane", "pasien", "kabencana", "gunung", "bencana", "parikrama", "konferensi", "pemargi", "industri",  "parindikane", "pamikarya", "jeronnyane", "porsi", "abon", "pindang", "yowana", "wisatawan", "pura", "dina", "basa", "embas", "bulan", "bahasa", "tahun", "ibu", "dosen", "bahasa", "sastra", "cerpen", "pemedek", "karesikan", "palemahan", "kasucian", "dura", "negara", "kawentenan", "budayane", "seseleh", "aksi", "terorisme", "suksmaning", "manah", "Fraksi-fraksi", "provinsi", "hatinya", "pasar", "pangan", "hari", "kerja", "pembeli", "raga", "istri", "perajin", "karya", "kayu", "bendera", "yayasan", "pendidikan", "satuan", "kerjasama", "kaluwihan", "jukut", "sejarah", "bangsa", "tetujone", "jaja", "toko", "buku", "i bapa", "padi", "uma", "lanang", "ekonomi", "alit-alit", "tenaga", "penyuluh", "bahasa"],
+			"bil": ["kalih", "makasami", "sinalih", "tunggil","makehan","akeh"],
+			"nominal": ["15", "11", "2020", "16"],
+			"nama": ["estu", "rina", "ali", "ganjar", "ria", "anis", "sari", "hani", "ilham", "lutvi", "dimas", "jessa", "prabowo", "gubernur", "wayan koster", "desa", "adat", "respati",  "batur", "koster", "astawa", "menteri", "PHK", "jero", "galungan", "pemerintah", "beraban", "I Gede Putra Ariawan", "Unud", "DPRD", "merah putih", "putri koster", "UMKM", "Indonesia", "Klungkung", "Gramedia", "Tjokorda Oka Artha Ardhana Sukawati"]
+		},
+		"fp": {
+			"sr": ["urati", "satia", "berdaulat", "batur", "becik"],
+			"pn": ["antuk", "di", "ka", "punika", "puniki", "sane", "pema", "pungkur", "lan", "mapinunas", "antuk"],
+			"ps": ["dahat", "durung", "inggih", "para", "olih", "pastika", "pisan", "banget", "naler", "setata", "presida", "tetep", "kauratiang"]			
+
+		}
+	},
+	"p": {
+		"fv": {
+			"kj": ["maca","nyapu", "turu", "teka", "mangkat", "pidato", "tuku", "mbakar", "ngode", "mangan", "menang", "numpak", "negesan", "maweweh", "katambanin", "nyanggra", "mendatangkan", "ngerauhan", "ngambil", "maosang", "keni", "kalaksanayang", "makarya", "nyarengin", "uning", "ngranjing", "mabasa", "nganggen", "campuran", "ngamargiang", "mapikayun","nuturang", "nuturang", "nyumbungan", "ngewacen", "kaaptiyang", "nyaga", "kaloktah", "kaaptiang", "ngicen", "katangarin", "ngaturang", "nangian", "nincapan", "gotong royong", "ngemastikayang", "ngaryanin", "malakar", "mawesana", "mapangapti", "ngaptiang", "masang", "nedungin", "mewali", "mecikang", "nguripan", "nyihnayang", "medua", "medagang", "ngadep", "ngadepang", "meliang", "mamula", "katureksain"],
+			"sf": ["becik", "tan", "virtual", "sumeken", "urati", "kuliner", "akeh", "prasida", "patut", "satia", "kenak", "makehan", "gering", "kentel", "strategis", "nyujur","medue", "lantang"]
+
+		},
+		"fp": {
+			"sr": ["urati", "satia", "berdaulat", "batur"],
+			"pn": ["antuk", "di", "ka", "punika", "puniki", "ring", "sampun", "sane", "pema", "pungkur", "lan",  "mapinunas", "antuk"],
+			"kt": ["sakadi", "semengan", "benjang", "negatif", "sami", "diri", "kantos", "surud-surud", "nenten", "dumun", "angga", "ituni", "semengan"],
+			"ps": ["dahat", "durung", "inggih", "makasami", "para", "olih", "pastika", "pisan", "banget", "naler", "setata", "presida", "tetep", "kauratiang","kantun","taler"],
+			"pr": ["pinaka","mangda", "sareng", "wiadin", "sangkaning", "miwah", "desa", "mageng"]
+		}
+	},
+	"o": {
+		
+		"fn": {
+			"gt": ["neng", "amben", "ndesa", "roti", "ayam", "sroto", "honda",  "pesawat"],
+			"bd": ["abon", "acara", "adat", "adine", "juuke", "memene", "peken", "anak", "positif", "daerah", "pacentokan", "layangan", "titi", "acara", "baga", "swadharma", "krama", "usaha", "bengkel", "utsaha", "pengalgal", "masan", "pandemi", "pemilet", "kawentenang", "kramane", "indik", "kauratiang", "pidartane", "pasien", "kabencana", "gunung", "bencana", "parikrama", "konferensi", "pemargi", "industri",  "parindikane", "pamikarya", "jeronnyane", "porsi", "abon", "pindang", "yowana", "wisatawan", "pura", "dina", "basa", "embas", "bulan", "bahasa", "tahun", "ibu", "dosen", "bahasa", "sastra", "cerpen", "pemedek", "karesikan", "palemahan", "kasucian", "dura", "negara", "kawentenan", "budayane", "seseleh", "aksi", "terorisme", "suksmaning", "manah", "Fraksi-fraksi", "provinsi", "hatinya", "pasar", "pangan", "hari", "kerja", "pembeli", "raga", "istri", "perajin", "karya", "kayu", "bendera", "yayasan", "pendidikan", "satuan", "kerjasama", "kaluwihan", "jukut", "sejarah", "bangsa", "tetujone", "jaja", "toko", "buku", "bapa", "padi", "uma", "lanang", "ekonomi", "alit-alit", "tenaga", "penyuluh", "bahasa", "warsa"],
+			"bil": ["kalih", "makasami", "sinalih", "tunggil"],
+			"nominal": ["15", "2020", "16"],
+			"nama": ["Bali","dewa indra", "isi denpasar", "luh sari", "klungkung", "PKK", "covid-19", "PMI", "wakil gubernur", "Bali", "Kadek Suprapta Meranggi", "guru besar", "PBMB", "sekretaris", "gubernur", "wayan koster", "desa", "adat", "respati",  "batur", "koster", "astawa", "menteri", "PHK", "jero", "galungan", "pemerintah", "beraban", "I Gede Putra Ariawan", "Unud", "DPRD", "merah putih", "putri koster", "UMKM", "Indonesia", "Klungkung", "Gramedia", "Tjokorda Oka Artha Ardhana Sukawati"]
+		}, 
+		"fv": {
+			"kj": ["dados", "kaucap", "ngelaksanayang", "nyarengin", "mungkah", "dados", "nyontoang", "raris", "nangiang", "memargi", "kauningin", "negesan", "maweweh", "katambanin", "nyanggra", "mendatangkan", "ngerauhan", "ngambil", "maosang", "keni", "kalaksanayang", "makarya", "nyarengin", "uning", "ngranjing", "mabasa", "nganggen", "campuran", "ngamargiang", "mapikayun",  "nuturang", "nuturang", "nyumbungan", "ngewacen", "kaaptiyang", "nyaga", "kaloktah", "kaaptiang", "ngicen", "katangarin", "ngaturang", "nangian", "nincapan", "gotong royong", "ngemastikayang", "ngaryanin", "malakar", "mawesana", "mapangapti", "ngaptiang", "masang", "nedungin", "mewali", "mecikang", "nguripan", "nyihnayang", "medua", "medagang", "ngadep", "ngadepang", "meliang", "mamula", "mekarya", "sesuduk"],
+			"sf": ["becik", "virtual", "sumeken", "urati", "kuliner", "akeh", "prasida", "patut", "satia", "kenak", "makehan", "gering", "kentel", "strategis", "nyujur","medue", "pulah", "palih"]
+		},
+		"fp": {
+			"pn": ["antuk", "di", "ka", "punika", "puniki", "sampun", "sane", "pema", "pungkur", "lan",  "mapinunas", "antuk", "perekonomian"]
+		}
+	},
+	"pel": {
+		"fn": {
+			"gt": ["latar", "gasik", "sore-sore", "esuk-esuk", "wengi-wengi",  "lomba"],
+			"bd": ["pariwisata","abon", "acara", "adat", "adine", "juuke", "memene", "peken", "anak", "positif", "daerah", "pacentokan", "layangan", "titi", "acara", "baga", "swadharma", "krama", "usaha", "bengkel", "utsaha", "pengalgal", "masan", "pandemi", "pemilet", "kawentenang", "kramane", "indik", "kauratiang", "pidartane", "pasien", "kabencana", "gunung", "bencana", "parikrama", "konferensi", "pemargi", "industri", "parindikane", "pamikarya", "jeronnyane", "porsi", "abon", "pindang", "yowana", "wisatawan", "pura", "dina", "basa", "embas", "bulan", "bahasa", "tahun", "ibu", "dosen", "bahasa", "sastra", "cerpen", "pemedek", "karesikan", "palemahan", "kasucian", "dura", "negara", "kawentenan", "budayane", "seseleh", "aksi", "terorisme", "suksmaning", "manah","provinsi", "hatinya", "pasar", "pangan", "hari", "kerja", "pembeli", "raga", "istri", "perajin", "karya", "kayu", "bendera", "yayasan", "pendidikan", "satuan", "kerjasama", "kaluwihan", "jukut", "sejarah", "bangsa", "tetujone", "jaja", "toko", "buku", "bapa", "padi", "uma", "lanang", "ekonomi", "alit-alit", "tenaga", "penyuluh", "bahasa", "sistem", "ajah-ajah", "jiwa"],
+			"bil": ["kalih", "makasami", "sinalih", "tunggil"],
+			"nominal": ["15", "2020", "16"],
+			"nama": ["dewa indra", "isi denpasar", "luh sari", "klungkung", "PKK", "covid-19", "PMI", "wakil gubernur", "Bali", "Kadek Suprapta Meranggi", "guru besar", "PBMB", "sekretaris", "gubernur", "wayan koster", "desa", "adat", "respati",  "batur", "koster", "astawa", "menteri", "PHK", "jero", "galungan", "pemerintah", "beraban", "I Gede Putra Ariawan", "Unud", "DPRD", "merah putih", "putri koster", "UMKM", "Indonesia", "Klungkung", "Gramedia", "Tjokorda Oka Artha Ardhana Sukawati"]
+
+		}, 
+		"fp": {
+			"sr": ["urati", "satia", "berdaulat", "batur"],
+			"pn": ["antuk", "di","ka", "punika", "puniki", "ring", "sampun", "sane", "pema", "pungkur", "lan", "pungkuran","mapinunas", "antuk"],
+			"kt": ["pungkuran","sekadi", "semengan", "benjang", "negatif", "sami", "diri", "kantos", "surud-surud", "nenten", "dumun", "angga", "ituni", "semengan"],
+			"ps": ["dahat", "durung", "inggih", "makasami", "para", "olih", "pastika", "pisan", "banget", "naler", "setata", "presida", "tetep", "kauratiang","kantun","taler"],
+			"pr": ["pinaka","mangda", "sareng", "wiadin", "sangkaning", "miwah", "desa", "mageng"]
+		},
+		"fv": {
+			"kj": ["dados", "kaucap", "ngelaksanayang", "nyarengin", "mungkah", "dados", "nyontoang", "raris", "nangiang", "memargi", "kauningin", "negesan", "maweweh", "katambanin", "nyanggra", "mendatangkan", "ngerauhan", "ngambil", "maosang", "keni", "kalaksanayang", "makarya", "nyarengin", "uning", "ngranjing", "mabasa", "nganggen", "campuran", "ngamargiang", "mapikayun", "nuturang", "nuturang", "nyumbungan", "ngewacen", "kaaptiyang", "nyaga", "kaloktah", "kaaptiang", "ngicen", "katangarin", "ngaturang", "nangian", "nincapan", "gotong royong", "ngemastikayang", "ngaryanin", "malakar", "mawesana", "mapangapti", "ngaptiang", "masang", "nedungin", "mewali", "mecikang", "nguripan", "nyihnayang", "medua", "medagang", "ngadep", "ngadepang", "meliang", "mamula","nindihin"],
+			"sf": ["becik", "virtual", "sumeken", "urati", "kuliner", "akeh", "prasida", "patut", "satia", "kenak", "makehan", "gering", "kentel", "strategis", "nyujur","medue", "seni"]
+
+		}
+	},
+	"ket": {
+		"fp": {
+			"sr": ["semangkok", "bulutangkis", "banter banget", "luar negri"],
+			"pn": ["antuk","majeng", "di", "ka", "punika", "puniki", "ring", "sampun", "sane", "pema", "pungkur", "lan", "mapinunas", "antuk"],
+			"kt": ["sakadi", "semengan", "benjang", "negatif", "sami", "diri", "kantos", "surud-surud", "nenten", "dumun", "angga", "ituni", "semengan"],
+			"ps": ["dahat", "durung", "inggih","para", "olih", "pastika", "pisan", "banget", "naler", "setata", "presida", "tetep", "kauratiang"],
+			"pr": ["pinaka","mangda", "sareng", "wiadin", "sangkaning", "miwah", "desa", "mageng"]
+		},
+		"fn": {
+			"gt": ["dane", "ia", "iraga", "titiang", "rare angon"],
+			"bd": ["fraksi-fraksi","abon", "acara", "adat", "adine", "juuke", "memene", "peken", "anak", "positif", "daerah", "pacentokan", "layangan", "titi", "acara", "baga", "swadharma", "krama", "usaha", "bengkel", "utsaha", "pengalgal", "masan", "pandemi", "pemilet", "kawentenang", "kramane", "indik", "kauratiang", "pidartane", "pasien", "kabencana", "gunung", "bencana", "parikrama", "konferensi", "pemargi", "industri", "parindikane", "pamikarya", "jeronnyane", "porsi", "abon", "pindang", "yowana", "wisatawan", "pura", "dina", "basa", "embas", "bulan", "bahasa", "tahun", "ibu", "dosen", "bahasa", "sastra", "cerpen", "pemedek", "karesikan", "palemahan", "kasucian", "dura", "negara", "kawentenan", "budayane", "seseleh", "aksi", "terorisme", "suksmaning", "manah",  "provinsi", "hatinya", "pasar", "pangan", "hari", "kerja", "pembeli", "raga", "istri", "perajin", "karya", "kayu", "bendera", "yayasan", "pendidikan", "satuan", "kerjasama", "kaluwihan", "jukut", "sejarah", "bangsa", "tetujone", "jaja", "toko", "buku", "bapa", "padi", "uma", "lanang", "ekonomi", "alit-alit", "tenaga", "penyuluh", "bahasa", "genah"],
+			"bil": ["kalih", "makasami", "sinalih", "tunggil"],
+			"nominal": ["15", "11", "2020", "16"],
+			"nama": ["dewa indra", "isi denpasar", "luh sari", "klungkung", "PKK", "covid-19", "PMI", "wakil gubernur", "Bali", "Kadek Suprapta Meranggi", "guru besar", "PBMB", "sekretaris", "gubernur", "wayan koster", "desa", "adat", "respati", "rumah sakit", "batur", "koster", "astawa", "menteri", "PHK", "jero", "galungan", "pemerintah", "beraban", "I Gede Putra Ariawan", "Unud", "DPRD", "merah putih", "putri koster", "UMKM", "Indonesia", "Klungkung", "Gramedia", "Tjokorda Oka Artha Ardhana Sukawati"]
+
+		},
+		"fv": {
+			"kj": ["dados", "kaucap", "ngelaksanayang", "nyarengin", "mungkah", "dados", "nyontoang", "raris", "nangiang", "memargi", "kauningin", "negesan", "maweweh", "katambanin", "nyanggra", "mendatangkan", "ngerauhan", "ngambil", "maosang", "keni", "kalaksanayang", "makarya", "nyarengin", "uning", "ngranjing", "mabasa", "nganggen", "campuran", "ngamargiang", "mapikayun", "nuturang", "nuturang", "nyumbungan", "ngewacen", "kaaptiyang", "nyaga", "kaloktah", "kaaptiang", "ngicen", "katangarin", "ngaturang", "nangian", "nincapan", "gotong royong", "ngemastikayang", "ngaryanin", "malakar", "mawesana", "mapangapti", "ngaptiang", "masang", "nedungin", "mewali", "mecikang", "nguripan", "nyihnayang", "medua", "medagang", "ngadep", "ngadepang", "meliang", "mamula", "mekarya", "geguat"],
+			"sf": ["becik", "virtual", "sumeken", "urati", "kuliner", "akeh", "prasida", "patut", "satia", "kenak", "makehan", "gering", "kentel", "strategis", "nyujur","medue"]
+
+		}
+	}
+}
